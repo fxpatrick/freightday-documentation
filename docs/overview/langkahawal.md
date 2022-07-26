@@ -25,6 +25,5 @@ Dimohon untuk mengisi segala informasi dengan akurat. Hal ini akan sangat memper
 ![](2022-07-25-17-30-24.png)
 
 
-## Step 3: Buka Menu Kolam Order
-Untuk dapat memulai memberikan quotation kepada Customer FreightDay.
-1. Silahkan klik **Kolam Order** pada bagian atas tengah
+## Step 3: Silahkan Menuju ke Menu Masing - Masing
+Karena terdapat perbedaan fitur antara pengguna satu dengan yang lain, maka silahkan klik menu pada bagian atas untuk mempelajari lebih lanjut

@@ -2,7 +2,7 @@
 layout: home
 hero:
   name: Marketplace logistik kolaboratif  
-  tagline: kelola kebutuhan jasa logistik Anda secara cepat 
+  tagline: Kelola kebutuhan jasa logistik Anda secara cepat 
   actions:
     - theme: brand
       text: Mulai Belajar

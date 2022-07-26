@@ -15,16 +15,17 @@ export default defineConfig({
         {
           text: 'Overview',
           collapsible: true,
-          collapsed: true,
+          // collapsed: true,
           items: [
-            { text: 'Freightday', link: '/overview/' }, 
+            { text: 'FreightDay', link: '/overview/' }, 
             { text: 'Langkah Awal', link: '/overview/langkahawal' }, 
+            { text: 'Jenis Order', link: '/overview/jenisorder' }, 
           ]
         },
         {
           text: 'Pengelolaan',
           collapsible: true,
-          collapsed: true,
+          // collapsed: true,
           items: [
             { text: 'Profil Perusahaan', link: '/overview/profil' }, 
             { text: 'Legalitas Perusahaan', link: '/overview/legalitas' }, 
@@ -32,25 +33,46 @@ export default defineConfig({
           ]
         }
       ],
-      '/klrkb/': [
+      '/customer/': [
         {
-          text: 'Dokumen',
+          text: 'Order Saya',
+          collapsible: true,
           items: [
-            { text: 'Kepabeanan', link: '/klrkb/dokumenbc/' }, 
-            { text: 'Internal', link: '/klrkb/dokumeninternal/' }, 
+            { text: 'Order Saya', link: '/customer/ordersaya' }, 
+            { text: 'Invoice', link: '/customer/invoice' }, 
+          ]
+        },
+      ],
+      '/ff/': [
+        {
+          text: 'Kolam Order',
+          collapsible: true,
+          // collapsed: true,
+          items: [
+            { text: 'Memberikan Penawaran', link: '/ff/kolamorder' }, 
           ]
         },
         {
-          text: 'Integrasi',
+          text: 'Pekerjaan Saya',
+          collapsible: true,
+          // collapsed: true,
           items: [
-            { text: 'Sync Client', link: '/klrkb/syncclient/' }, 
-            { text: 'API', link: '/klrkb/api/' }, 
-            { text: 'TPB CEISA', link: '/klrkb/tpbceisa/' }, 
-            { text: 'CDMS KB', link: '/klrkb/cdmskb/' }, 
+            { text: 'Pekerjaan Saya', link: '/ff/pekerjaansaya' }, 
+            { text: 'Penawaran', link: '/ff/penawaran' }, 
+            { text: 'Invoice', link: '/ff/invoice' }, 
+            { text: 'Order Mitra', link: '/ff/ordermitra' }, 
+            { text: 'Invoice Mitra', link: '/ff/invoicemitra' }, 
+          ]
+        },
+        {
+          text: 'Pengelolaan',
+          collapsible: true,
+          // collapsed: true,
+          items: [
+            { text: 'Riwayat Transaksi', link: '/ff/riwayattransaksi' }, 
           ]
         }
       ],
-
     },
     footer: {
       message: 'Bea Cukai Lebih Baik',
@@ -64,9 +86,9 @@ function nav() {
     { text: 'Overview', link: '/overview/', activeMatch: '/overview/' },
     { text: 'Customer', link: '/customer/', activeMatch: '/customer/' },
     { text: 'Freight Forwarder', link: '/ff/', activeMatch: '/ff/' },
-    { text: 'Truk', link: '/truk/', activeMatch: '/truk/' },
-    { text: 'Gudang', link: '/gudang/', activeMatch: '/gudang/' },
-    { text: 'Pelayaran', link: '/pelayaran/', activeMatch: '/pelayaran/' },
+    // { text: 'Truk', link: '/truk/', activeMatch: '/truk/' },
+    // { text: 'Gudang', link: '/gudang/', activeMatch: '/gudang/' },
+    // { text: 'Pelayaran', link: '/pelayaran/', activeMatch: '/pelayaran/' },
   ]
 }
 
