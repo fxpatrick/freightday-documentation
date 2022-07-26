@@ -9,7 +9,7 @@ Jika Anda merasa bahwa terdapat perubahan informasi perusahaan yang bersifat pen
 Maka silahkan untuk mengikuti panduan di bawah ini
 1. Klik **Pengelolaan** pada menu bagian atas
 2. Klik **Profil Perusahaan** pada sidebar
-3. Klik **Ubah Data**,![](%20.png)
+3. Klik **Ubah Data**,
 4. Klik **Simpan**
 
 ::: warning
