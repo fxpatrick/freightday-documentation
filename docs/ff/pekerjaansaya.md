@@ -1,6 +1,6 @@
 # Pekerjaan Saya
 Setiap penawaran yang sudah
-1. Disetujui harganya oleh kedua belah pihak
+1. Disetujui harganya oleh kedua belah pihak, dan Anda sebagai Freight Forwarder telah menerima email notifikasi atas penawaran yang telah disetujui.
 2. Sudah selesai ditinjau dari sisi legalitas
 Maka akan masuk data ke menu **Pekerjaan Saya**
 
