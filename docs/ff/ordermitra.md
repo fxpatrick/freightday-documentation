@@ -29,6 +29,6 @@ Untuk dapat memantau pekerjaan dari vendor logistik, silahkan:
 
 ## Konfirmasi Penyelesaian Pekerjaan Mitra
 Jika pekerjaan sudah diselesaikan oleh pihak mitra, maka panel **Progress Pekerjaan** akan berubah dari yang sebelumnya, belum memiliki tanda centang seperti pada gambar di bawah
-![](2022-07-26-15-34-15.png)
+![](../customer/2022-07-26-15-34-15.png)
 menjadi
-![](2022-07-26-15-34-37.png)
+![](../customer/2022-07-26-15-34-37.png)
