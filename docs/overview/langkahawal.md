@@ -1,3 +1,4 @@
+# Langkah Awal
 ## Step 1: Daftarkan Akun Anda
 1. Buka [FreightDay](https://freightday.com)
 2. Klik **Sign Up**
@@ -17,7 +18,15 @@ Jika sudah pernah terdaftar silahkan lanjutkan langsung ke [langkah selanjutnya]
 1. Setelah terbuka FreightDay.com/account/create
 2. Silahkan pilih apakah Anda ingin terdaftar sebagai **Vendor** atau **Customer**
 3. Masukan informasi Profil Perusahaan Anda
-4. Masukan informasi Legalitas Perusahaan Anda
+::: tip
+Jika Anda memilih **vendor** pada nomor 2, maka:
+1. Jika Anda adalah Freight Forwarder, maka pada field **Jenis Vendor**, silahkan pilih Freight Forwarder 
+2. Jika Anda adalah vendor Pelayaran, maka pada field **Jenis Vendor**, silahkan pilih Pelayaran
+3. Jika Anda adalah vendor Penerbangan, maka pada field **Jenis Vendor**, silahkan pilih Penerbangan
+4. Jika Anda adalah vendor Truk, maka pada field **Jenis Vendor**, silahkan pilih Truk
+5. Jika Anda adalah vendor Gudang, maka pada field **Jenis Vendor**, silahkan pilih Gudang
+:::
+5. Masukan informasi Legalitas Perusahaan Anda
 ::: warning
 Dimohon untuk mengisi segala informasi dengan akurat. Hal ini akan sangat mempercepat proses verifikasi dari FreightDay
 :::
@@ -26,4 +35,6 @@ Dimohon untuk mengisi segala informasi dengan akurat. Hal ini akan sangat memper
 
 
 ## Step 3: Silahkan Menuju ke Menu Masing - Masing
-Karena terdapat perbedaan fitur antara pengguna satu dengan yang lain, maka silahkan klik menu pada bagian atas untuk mempelajari lebih lanjut
+Karena terdapat perbedaan fitur antara pengguna satu dengan yang lain, maka silahkan klik menu pada bagian atas untuk mempelajari lebih  <br>
+[Klik di sini Jika Anda Customer](/customer/) <br>
+[Klik di sini Jika Anda Freight Forwarder](/ff/)

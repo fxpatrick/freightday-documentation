@@ -14,18 +14,18 @@ Sebelum memberikan penawaran silahkan untuk mempelajari hal ini terlebih dahulu 
 ::: details Pelayaran 
 Dengan klik **Minta Penawaran**, pihak pelayaran akan menerima notifikasi, untuk selanjutnya memberikan harga. <br>
 Jika sebelum diklik **Minta Penawaran**, maka tampilan akan seperti gambar di bawah 
-![](2022-07-26-17-20-03.png)
+![](pelayaran1.png)
 Jika sesudah diklik **Minta Penawaran**, maka tampilan akan seperti gambar di bawah 
-![](2022-07-26-17-20-23.png)
+![](pelayaran2.png)
 Jika sesudah diklik **Minta Penawaran**, dan sudah direspon oleh vendor maka tampilan akan seperti gambar di bawah 
-![](2022-07-26-17-24-13.png)
+![](pelayaran3.png)
 :::
 
 ::: warning 
 Akan terdapat variasi pada langkah ini
 :::
-6. Jika Anda menganggap harganya cukup kompetitif, dan Anda sebagai Freight Forwarder tertarik, silahkan klik **Masukan ke Penawaran**.
-7. Harga tersebut akan disalin ke Penawaran yang Anda berikan kepada calon pelanggan
+1. Jika Anda menganggap harganya cukup kompetitif, dan Anda sebagai Freight Forwarder tertarik, silahkan klik **Masukan ke Penawaran**.
+2. Harga tersebut akan disalin ke Penawaran yang Anda berikan kepada calon pelanggan
 ::: info
 Jika Anda tidak tertarik pada vendor logistik FreightDay, silahkan klik **Lewati**
 :::
