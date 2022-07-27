@@ -14,16 +14,19 @@ Sebelum memberikan penawaran silahkan untuk mempelajari hal ini terlebih dahulu 
 ::: details Pelayaran 
 Dengan klik **Minta Penawaran**, pihak pelayaran akan menerima notifikasi, untuk selanjutnya memberikan harga. <br>
 Jika sebelum diklik **Minta Penawaran**, maka tampilan akan seperti gambar di bawah 
+
 ![](pelayaran1.png)
 Jika sesudah diklik **Minta Penawaran**, maka tampilan akan seperti gambar di bawah 
 ![](pelayaran2.png)
 Jika sesudah diklik **Minta Penawaran**, dan sudah direspon oleh vendor maka tampilan akan seperti gambar di bawah 
 ![](pelayaran3.png)
+
 :::
 
 ::: warning 
 Akan terdapat variasi pada langkah ini
 :::
+
 1. Jika Anda menganggap harganya cukup kompetitif, dan Anda sebagai Freight Forwarder tertarik, silahkan klik **Masukan ke Penawaran**.
 2. Harga tersebut akan disalin ke Penawaran yang Anda berikan kepada calon pelanggan
 ::: info
