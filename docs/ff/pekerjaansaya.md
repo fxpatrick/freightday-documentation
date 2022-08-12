@@ -11,8 +11,9 @@ Untuk mulai berkomunikasi dengan pihak pelanggan, silahkan:
 3. Plih nomor order yang ingin Anda pantau pekerjaannya
 4. Sampaikan pesan pada bagian dengan cara klik chat box
 5. Masukan pesan yang ingin Anda sampaikan
-6. Jika dibutuhkan lampiran silahkan klik tanda klip kertas, kemudian browse file yang ingin Anda lampirkan
-7. Klik **Kirim**
+6. Untuk menginfokan customer mengenai nomor dokumen BL/AWB, user dapat mengisikan nomor BL/AWB pada kolom Informasi Progress yang sudah disediakan, apabila terjadi kesalahan dalam mengisikan pengisian nomor BL/AWB, user juga bisa menekan tombol **Ubah** lalu **Simpan**
+7. Jika dibutuhkan lampiran silahkan klik tanda klip kertas, kemudian browse file yang ingin Anda lampirkan
+8. Klik **Kirim**
 
 ## Menyelesaikan Pekerjaan
 1. Klik **Pekerjaan Saya** pada menu bar
