@@ -25,3 +25,7 @@ Silahkan melengkapi komponen - komponen harga dengan dokumen pendukung invoice, 
 ::: info
 FreightDay akan mengirimkan invoice secara default, kepada admin utama dari pelanggan yang Anda tujukan
 :::
+10. Apabila customer ingin melakukan pembayaran invoice dengan cara direct langsung ke pihak freight forwarder, maka apabila pihak customer sudah melunasi invoice nya, user freight forwarder bisa menekan tombol **Tandai Dibayar**
+::: info
+Apabila user telah menekan tombol **Tandai Dibayar** dan pilih **Setuju** maka secara otomatis **Invoice** tersebut akan berstatus **Lunas**
+:::
