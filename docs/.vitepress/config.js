@@ -7,7 +7,7 @@ export default defineConfig({
   lastUpdated: true,
   head:[['link', { rel: "shortcut icon", href: "/freightdaylogo.ico"}]],
   themeConfig: {
-    logo: '/freightdaylogo.svg',
+    logo: '/freightday.svg',
     siteTitle: false,
     nav: nav(),
     sidebar: {
@@ -86,6 +86,7 @@ function nav() {
     { text: 'Overview', link: '/overview/', activeMatch: '/overview/' },
     { text: 'Customer', link: '/customer/', activeMatch: '/customer/' },
     { text: 'Freight Forwarder', link: '/ff/', activeMatch: '/ff/' },
+    { text: 'Term of Services', link: '/legal/tos', activeMatch: '/legal/' },
     // { text: 'Truk', link: '/truk/', activeMatch: '/truk/' },
     // { text: 'Gudang', link: '/gudang/', activeMatch: '/gudang/' },
     // { text: 'Pelayaran', link: '/pelayaran/', activeMatch: '/pelayaran/' },
