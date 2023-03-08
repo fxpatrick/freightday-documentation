@@ -17,9 +17,9 @@ export default defineConfig({
           collapsible: true,
           // collapsed: true,
           items: [
-            { text: 'FreightDay', link: '/overview/' }, 
-            { text: 'Langkah Awal', link: '/overview/langkahawal' }, 
-            { text: 'Jenis Order', link: '/overview/jenisorder' }, 
+            { text: 'FreightDay', link: '/overview/' },
+            { text: 'Langkah Awal', link: '/overview/langkahawal' },
+            { text: 'Jenis Order', link: '/overview/jenisorder' },
           ]
         },
         {
@@ -27,9 +27,9 @@ export default defineConfig({
           collapsible: true,
           // collapsed: true,
           items: [
-            { text: 'Profil Perusahaan', link: '/overview/profil' }, 
-            { text: 'Legalitas Perusahaan', link: '/overview/legalitas' }, 
-            { text: 'Pengguna', link: '/overview/pengguna' }, 
+            { text: 'Profil Perusahaan', link: '/overview/profil' },
+            { text: 'Legalitas Perusahaan', link: '/overview/legalitas' },
+            { text: 'Pengguna', link: '/overview/pengguna' },
           ]
         }
       ],
@@ -38,8 +38,8 @@ export default defineConfig({
           text: 'Order Saya',
           collapsible: true,
           items: [
-            { text: 'Order Saya', link: '/customer/ordersaya' }, 
-            { text: 'Invoice', link: '/customer/invoice' }, 
+            { text: 'Order Saya', link: '/customer/ordersaya' },
+            { text: 'Invoice', link: '/customer/invoice' },
           ]
         },
       ],
@@ -49,7 +49,7 @@ export default defineConfig({
           collapsible: true,
           // collapsed: true,
           items: [
-            { text: 'Memberikan Penawaran', link: '/ff/kolamorder' }, 
+            { text: 'Memberikan Penawaran', link: '/ff/kolamorder' },
           ]
         },
         {
@@ -57,11 +57,12 @@ export default defineConfig({
           collapsible: true,
           // collapsed: true,
           items: [
-            { text: 'Pekerjaan Saya', link: '/ff/pekerjaansaya' }, 
-            { text: 'Penawaran', link: '/ff/penawaran' }, 
-            { text: 'Invoice', link: '/ff/invoice' }, 
-            { text: 'Order Mitra', link: '/ff/ordermitra' }, 
-            { text: 'Invoice Mitra', link: '/ff/invoicemitra' }, 
+            { text: 'Pekerjaan Saya', link: '/ff/pekerjaansaya' },
+            { text: 'Penawaran', link: '/ff/penawaran' },
+            { text: 'Invoice', link: '/ff/invoice' },
+            { text: 'Order Mitra', link: '/ff/ordermitra' },
+            { text: 'Invoice Mitra', link: '/ff/invoicemitra' },
+            { text: 'Outward Manifest', link: '/ff/outwardmanifest' },
           ]
         },
         {
@@ -69,7 +70,7 @@ export default defineConfig({
           collapsible: true,
           // collapsed: true,
           items: [
-            { text: 'Riwayat Transaksi', link: '/ff/riwayattransaksi' }, 
+            { text: 'Riwayat Transaksi', link: '/ff/riwayattransaksi' },
           ]
         }
       ],
