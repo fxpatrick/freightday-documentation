@@ -1,6 +1,8 @@
 
 # Freight Forwarder
-Customer atau pelanggan pada FreightDay adalah semua perusahaan yang ingin melakukan pemesanan jasa logistik, secara umum pelanggan pada FreightDay adalah para importir/eksportir yang membutuhkan jasa logistik.
-
-
-<!-- ![](2022-07-26-12-18-26.png) -->
+Freight Forwader pada FreightDay adalah perusahaan yang menjadi aktor logistik yang dapat:
+1. Melihat kolam order
+2. Memberikan penawaran atas kolam order
+3. Memproses order logistik 
+4. Menyimpan dokumen yang relevan dengan proses logistik
+5. Mempermudah proses pembuatan dokumen kepabeanan
