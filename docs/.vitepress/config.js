@@ -5,7 +5,7 @@ export default defineConfig({
   title: 'Klearance Online',
   description: 'Aplikasi Pelaporan Bea Cukai',
   lastUpdated: true,
-  head:[['link', { rel: "shortcut icon", href: "/freightdaylogo.ico"}]],
+  head:[['link', { rel: "shortcut icon", href: "/favicofd.ico"}]],
   themeConfig: {
     logo: '/freightday.svg',
     siteTitle: false,
