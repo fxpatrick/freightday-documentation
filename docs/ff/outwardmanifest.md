@@ -45,6 +45,6 @@ Sehingga jika Anda kembali ke dasbor (dengan cara klik logo FreightDay di pojok 
 Pastikan **PEB Manifest belum terisi** selalu berinlai 0 (nol)
 ![](2023-03-31-11-40-06.png)
 
-## Pengisian Outward Manifest
+## Panduan Dalam Bentuk Video Pengisian Outward Manifest
 Silahkan klik pekerjaan saya dan ikuti video di bawah
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NWRq7KvzF5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
