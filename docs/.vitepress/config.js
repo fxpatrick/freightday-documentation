@@ -10,6 +10,9 @@ export default defineConfig({
     logo: '/freightday.svg',
     siteTitle: false,
     nav: nav(),
+    search: {
+      provider: 'local',
+    },
     sidebar: {
       '/overview/': [
         {
